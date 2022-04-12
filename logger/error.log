@@ -1,0 +1,5 @@
+::1 - - [08/Apr/2022:12:40:23 +0000] "GET /api/v1/users/check-balance?account_type_name=savings HTTP/1.1" 200 123 "-" "PostmanRuntime/7.29.0"
+::1 - - [08/Apr/2022:12:40:35 +0000] "GET /api/v1/users/check-balance?account_type_name=savings HTTP/1.1" 200 123 "-" "PostmanRuntime/7.29.0"
+::1 - - [08/Apr/2022:12:41:11 +0000] "GET /api/v1/users/check-balane?account_type_name=savings HTTP/1.1" 404 164 "-" "PostmanRuntime/7.29.0"
+::1 - - [08/Apr/2022:12:41:46 +0000] "GET /api/v1/users/check-balance?account_type_name=savings HTTP/1.1" 200 123 "-" "PostmanRuntime/7.29.0"
+::1 - - [08/Apr/2022:12:49:30 +0000] "GET /api/v1/users/check-balance?account_type_name=savings HTTP/1.1" 200 123 "-" "PostmanRuntime/7.29.0"
